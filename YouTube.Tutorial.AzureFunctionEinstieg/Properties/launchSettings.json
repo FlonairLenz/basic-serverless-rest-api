@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "YouTube.Tutorial.AzureFunctionEinstieg": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7196",
+      "launchBrowser": false
+    }
+  }
+}
